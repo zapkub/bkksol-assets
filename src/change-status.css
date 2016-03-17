@@ -1,0 +1,27 @@
+.text-green{
+    color:green;
+}
+.text-green:hover{
+    color:green;
+    text-decoration: none;!important;
+}
+.text-red{
+    color:red;
+}
+.text-red:hover{
+    color:red;
+    text-decoration: none;!important;
+}
+
+.text-gray{
+    color: #7E7E7E;
+}
+.text-pink{
+    color: #FF8DB5;
+}
+.text-gray :hover{
+    color : #7E7E7E !important;
+}
+.text-pink :hover {
+    color: #FF8DB5 !important;
+}
